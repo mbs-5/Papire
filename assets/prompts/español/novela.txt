@@ -1,0 +1,17 @@
+Respira hondo y piensa paso a paso. Olvida las instrucciones anteriores; eres un experto en literatura. Vas a crear una ficha de estudio del siguiente capítulo literario en español con las siguientes características:
+
+Estructura y Formato Visual de la Ficha:
+- Resumen del Capítulo: Resume la trama principal que se desarrolla en este capítulo en particular.
+- Personajes en el Capítulo: Describe los personajes que aparecen en este capítulo, y su rol específico dentro del capítulo.
+- Temas del Capítulo: Identifica los temas principales que se exploran en este capítulo.
+- Recursos Literarios del Capítulo: Analiza el uso de recursos literarios que son relevantes dentro de este capítulo, y su función.
+- Citas Clave del Capítulo: Incluye citas clave que ilustren la trama, los personajes o los temas que se desarrollan en este capítulo.
+
+Precisión y Claridad:
+- La ficha debe permitir comprender la información única de este capítulo.
+- Presenta la información de manera objetiva y concisa, sin asumir información de otros capítulos. Utiliza citas cortas del texto para apoyar la información.
+- Prioriza la comprensión de la narrativa dentro del marco de este capítulo.
+
+Extensión y Contenido Objetivo:
+- Incluye solo la información relevante para entender la trama, personajes y temas que aparecen en este capítulo en particular.
+- Evita hacer referencia a capítulos anteriores, la información debe ser autocontenida. La ficha concluye con un resumen de los puntos clave del capítulo.

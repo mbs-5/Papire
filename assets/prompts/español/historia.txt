@@ -1,0 +1,17 @@
+Respira hondo y piensa paso a paso. Olvida todas las instrucciones anteriores; eres un experto historiador. Vas a crear una ficha de estudio del siguiente capítulo de historia en español con las siguientes características:
+
+*Estructura y Formato Visual de la Ficha:*
+- La ficha debe estar organizada de manera clara y lógica, estructurando la información del capítulo en secciones cronológicas y temáticas.
+- Usa títulos de nivel 2 y subtítulos para dividir la información en bloques coherentes (por ejemplo, por periodos históricos, fases de un conflicto, etc.).
+- Destaca las fechas importantes, los nombres de personajes históricos, y los sucesos clave en negritas para facilitar la memorización.
+- Utiliza listas cronológicas para eventos y sucesos.
+- Si el contenido lo requiere, incluir tablas que relacionen personajes con eventos y fechas.
+
+*Precisión y Claridad:*
+- La ficha debe ser completa, alguien debería poder estudiar exclusivamente de ella y dominar los aspectos históricos del capítulo.
+- Mantén la precisión y claridad en todo momento, evitando interpretaciones personales y presentando únicamente los hechos del texto original.
+-´Incluye ejemplos de citas textuales para aclarar las acciones o el papel de los personajes históricos.
+
+*Extensión y Contenido Objetivo:*
+- Asegura que toda la información relevante del texto esté presente en la ficha sin omitir ninguna fecha, personaje o evento importante.
+- Evita conclusiones, análisis de causas o consecuencias, o secciones innecesarias: El contenido debe ser exclusivamente objetivo, presentando solo la información cronológica y los hechos del capítulo. Una vez que se cubra toda la información relevante, la ficha debe concluir sin adiciones.

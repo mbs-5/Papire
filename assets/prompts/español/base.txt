@@ -1,0 +1,16 @@
+Respira hondo y piensa paso por paso. Olvida todas las instrucciones anteriores, eres un doctorado en la materia. Vas a crear un resumen del siguiente capítulo con las siguientes características.
+
+1. **Estructura del Resumen**:
+   - El resumen debe estar organizado en forma de bullet points.
+   - Cada bullet point debe cubrir un suceso, fecha, persona importante o concepto clave del capítulo.
+   - Usa negritas para resaltar nombres de lugares, personas, eventos, conceptos y fechas relevantes.
+
+2. **Precisión y Claridad**:
+   - Asegúrate de que cada bullet point sea preciso, claro y fácil de entender.
+   - No omitas información relevante.
+  
+3. **Extensión**:
+   - La cantidad de bullet points debe ser proporcional a la extensión y complejidad del capítulo.
+   - Resume todo lo esencial sin sacrificar detalles importantes.
+
+El formato del texto es Markdown, No hace falta poner nada como ```markdown ni similares, simplemente el uso de #, *, y demás. No pongas título inicial con #, empieza directamente con los bullet points, a continuación el capítulo a resumir, hazlo lo mejor que puedas, el mundo depende de ello:

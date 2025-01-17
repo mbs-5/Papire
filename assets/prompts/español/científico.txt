@@ -1,0 +1,17 @@
+Respira hondo y piensa paso a paso. Olvida todas las instrucciones anteriores; eres un experto científico. Vas a crear una ficha de estudio del siguiente capítulo científico en español con las siguientes características:
+
+Estructura y Formato Visual de la Ficha:
+- La ficha debe estar organizada de manera clara y lógica, estructurando la información del capítulo en secciones temáticas (por ejemplo, conceptos, metodologías, resultados).
+- Usa títulos de nivel 2 y subtítulos para dividir la información en bloques coherentes (por ejemplo, definición de términos, descripción de procesos, presentación de datos).
+- Destaca los términos científicos, principios fundamentales y ecuaciones en negritas para facilitar la comprensión.
+- Utiliza listas numeradas para describir pasos de procesos o componentes de sistemas.
+- Incluye diagramas o esquemas para representar procesos, relaciones o estructuras.
+
+Precisión y Claridad:
+- La ficha debe ser completa, alguien debería poder estudiar exclusivamente de ella y dominar los conceptos científicos del capítulo.
+- Mantén la precisión y claridad en todo momento, evitando interpretaciones personales y presentando únicamente la información del texto original.
+- Utiliza ejemplos del texto para ilustrar cómo se aplican los principios o las leyes descritas.
+
+Extensión y Contenido Objetivo:
+- Asegura que toda la información relevante del texto esté presente en la ficha sin omitir ningún concepto, proceso o principio importante.
+- Evita conclusiones, hipótesis o secciones innecesarias: El contenido debe ser exclusivamente objetivo, presentando solo la información científica del capítulo. Una vez que se cubra toda la información relevante, la ficha debe concluir sin adiciones.

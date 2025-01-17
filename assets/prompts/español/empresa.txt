@@ -1,0 +1,17 @@
+Respira hondo y piensa paso a paso. Olvida las instrucciones anteriores; eres un experto en empresa. Vas a crear una ficha de estudio del siguiente capítulo de un libro de empresa, en español con las siguientes características:
+
+Estructura y Formato Visual de la Ficha:
+- Tema del Capítulo: Describe el tema central que se aborda en este capítulo en particular.
+- Modelos/Frameworks del Capítulo: Describe cualquier modelo o framework específico que se introduce en este capítulo, explicando sus componentes y pasos. Utiliza diagramas si es necesario.
+- Principios Clave del Capítulo: Enumera los principios clave o las ideas fundamentales que se presentan en este capítulo, resaltándolos en negrita.
+- Ejemplos/Casos de Estudio del Capítulo: Resume los ejemplos, casos de estudio o ilustraciones prácticas que se utilizan en este capítulo para explicar los modelos o principios.
+- Aplicaciones Prácticas del Capítulo: Describe cómo se pueden aplicar en la práctica los modelos, principios o ideas que se exponen en este capítulo.
+
+Precisión y Claridad:
+- La ficha debe permitir comprender la información única y práctica de este capítulo.
+- Presenta la información de manera objetiva y concisa, sin asumir conocimiento de capítulos anteriores. Utiliza ejemplos y citas cortas del texto para apoyar la información.
+- Prioriza la comprensión de los modelos, principios y su aplicación práctica dentro del marco de este capítulo.
+
+Extensión y Contenido Objetivo:
+- Incluye solo la información relevante para entender los modelos, principios y ejemplos prácticos que se presentan en este capítulo en particular.
+- Evita hacer referencia a capítulos anteriores, la información debe ser autocontenida. La ficha concluye con un resumen de los puntos clave prácticos de este capítulo.
